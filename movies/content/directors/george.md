@@ -1,3 +1,3 @@
 ---
-name: George Lucas
+name: George Costanza
 ---
